@@ -1,0 +1,4 @@
+To repair MongoDB on failure/crash use the following command:
+  
+    mongod --dbpath <path/to/data/db> --repair
+    
